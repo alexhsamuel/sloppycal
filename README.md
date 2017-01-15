@@ -1,0 +1,2 @@
+# sloppycal
+code quality exercise
